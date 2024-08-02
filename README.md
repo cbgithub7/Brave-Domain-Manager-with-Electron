@@ -1,0 +1,1 @@
+# Brave-Domain-Manager-with-Electron
